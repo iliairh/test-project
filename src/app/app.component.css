@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+}
+
+#some {
+
+}
+
+.button {
+  padding: 2px;
+  margin: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  user-select: none;
+}
